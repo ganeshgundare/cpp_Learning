@@ -1,0 +1,36 @@
+
+#Visual studio Local settings
+.vs/
+*.user
+*.suo 
+*.userosscache
+*.sln.docstates
+
+# Build Output folders
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+
+# compiled Files
+*.obj
+*.o
+*.dll
+*.exe
+*.pbd
+*.idb
+*.ilk
+*.lib
+*.exp
+
+#Cmake Generated Files
+CMkakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+#Operating System Files
+.DS_Store
+Thumbs.db
+
